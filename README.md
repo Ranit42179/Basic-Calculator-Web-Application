@@ -24,6 +24,11 @@ A simple calculator web application that performs basic arithmetic operations.
 - CSS
 - JavaScript
 
+*Website Link*
+
+ https://ranit-calculator.netlify.app
+ 
+
 *Author*
 
 Ranit Ghosh
